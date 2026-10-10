@@ -10,7 +10,7 @@
   "update": {
     "enabled": true,
     "version": "3.0.0",
-    "apk_url": "https://www.mediafire.com/file/dly8413vx1ucz7p/app-release.apk/file",
+    "apk_url": "",
     "force": false,
     "changelog": "Versi terbaru aplikasi."
   }
