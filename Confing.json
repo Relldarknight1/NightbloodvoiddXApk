@@ -1,5 +1,5 @@
 {
-  "base_url": "http://minz.pteroqdactyl.my.id:4297",
+  "base_url": "http://anjayilegal.shapetganteng.my.id:3144",
   "firebase": {
     "apiKey": "70b8a171d67ec0afdfac8427aca00074b752aa35",
     "appId": "1:937481949973:android:49acc88e67e615bde7cf1c",
@@ -9,7 +9,7 @@
   },
   "update": {
     "enabled": true,
-    "version": "2.0.0",
+    "version": "3.0.0",
     "apk_url": "https://www.mediafire.com/file/dly8413vx1ucz7p/app-release.apk/file",
     "force": false,
     "changelog": "Versi terbaru aplikasi."
